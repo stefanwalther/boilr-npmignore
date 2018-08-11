@@ -1,3 +1,3 @@
-A boilr template to create a boilr template.
+{%=repository%}
 
 {%= docs("boilr-output-wrapper") %}
