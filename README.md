@@ -5,7 +5,7 @@
 ---
 
 ## Purpose
-stefanwalther/boilr-npmignore
+A boilr template to create a .npmignore file.
 
 The following files are generated:
 
