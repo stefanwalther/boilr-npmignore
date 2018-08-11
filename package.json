@@ -1,0 +1,15 @@
+{
+  "name": "boilr-npmignore",
+  "version": "0.1.0",
+  "description": "A boilr template to create a .npmignore file.",
+  "homepage": "https://github.com/stefanwalther/boilr-npmignore#readme",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-npmignore/issues"
+  },
+  "license": "MIT",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-npmignore.git"
+  }
+}
